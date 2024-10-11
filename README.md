@@ -1,5 +1,5 @@
 # slip-app
 
 
-![Screenshot 2024-09-10 082413](https://media.istockphoto.com/id/1011241694/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%B2%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1.jpg?s=612x612&w=0&k=20&c=q7qz0uFc4Zkf5tGxFLNFyg82k_l9YS06nUQ9Ny-RIOo=)
-https://github.com/user-attachments/assets/dee15c5a-f28e-453c-b703-abc752a041a0
+![Screenshot 2024-09-10 082413](https://github.com/user-attachments/assets/dee15c5a-f28e-453c-b703-abc752a041a0)
+
